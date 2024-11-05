@@ -1,0 +1,9 @@
+sending incremental file list
+created directory test2
+./
+file1
+file2
+file3
+
+sent 255 bytes  received 104 bytes  718.00 bytes/sec
+total size is 7  speedup is 0.02
